@@ -20,7 +20,7 @@ read -p "List your 5 rolls for word $count as a single string (e.g., '12345'): "
 while ! [[ $key =~ $reg ]] ; do
 	read -p "Rolls for word $count must be entered as 5 digits between 1 and 6: " key
 done
-results+=$(cat $DIR/diceware.txt | grep $key | awk '{print $2}')
+results+=$(cat $DIR/dictionary.txt | grep $key | awk '{print $2}')
 results+=" "
 done
 echo "\n\nResult:\n\n${results}\n"
