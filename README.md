@@ -6,5 +6,8 @@ This POSIX shell script is an easy way to get a robot to do the looking up and c
 ### HOW TO  
 Clone or [download](https://github.com/chadlavi/diceware.sh/archive/v1.0.zip) this repo, then execute `diceware.sh`.
 
-cf. https://en.wikipedia.org/wiki/Diceware, http://world.std.com/~reinhold/diceware.html
+### CITATIONS
+cf. https://en.wikipedia.org/wiki/Diceware, http://world.std.com/~reinhold/diceware.html for more on diceware
+
+`dictionary.txt` created from http://world.std.com/%7Ereinhold/diceware.wordlist.asc
 
