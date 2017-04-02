@@ -9,5 +9,4 @@ Clone or [download](https://github.com/chadlavi/diceware.sh/archive/v1.0.zip) th
 ### CITATIONS
 cf. https://en.wikipedia.org/wiki/Diceware, http://world.std.com/~reinhold/diceware.html for more on diceware
 
-`dictionary.txt` created from http://world.std.com/%7Ereinhold/diceware.wordlist.asc
-
+`dictionary.txt` created from http://world.std.com/~reinhold/diceware.wordlist.asc
